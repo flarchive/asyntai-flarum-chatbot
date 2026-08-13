@@ -1,0 +1,40 @@
+{
+    "name": "asyntai/flarum-chatbot",
+    "description": "Adds the Asyntai AI assistant to your forum. It answers visitor questions from your own content, in 80+ languages.",
+    "keywords": ["flarum", "chatbot", "ai", "support", "assistant"],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "homepage": "https://asyntai.com",
+    "support": {
+        "issues": "https://github.com/asyntai/flarum-chatbot/issues",
+        "source": "https://github.com/asyntai/flarum-chatbot",
+        "email": "hello@asyntai.com"
+    },
+    "authors": [
+        {
+            "name": "Asyntai",
+            "email": "hello@asyntai.com",
+            "homepage": "https://asyntai.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Asyntai\\Chatbot\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Asyntai AI Chatbot",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-comments",
+                "backgroundColor": "#6366f1",
+                "color": "#fff"
+            }
+        }
+    }
+}
