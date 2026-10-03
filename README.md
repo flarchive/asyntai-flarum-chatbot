@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of asyntai/flarum-chatbot.** Not for installation: use [Packagist](https://packagist.org/packages/asyntai/flarum-chatbot) or the [upstream repository](https://github.com/asyntai/flarum-chatbot).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/asyntai-flarum-chatbot/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0 || ^2.0`
+**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/asyntai-flarum-chatbot/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0 || ^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-08-13 | `^1.0` | [Browse](https://github.com/flarchive/asyntai-flarum-chatbot/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-08-13 | `^1.0 || ^2.0` | [Browse](https://github.com/flarchive/asyntai-flarum-chatbot/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/asyntai-flarum-chatbot.json](https://github.com/flarchive/archive-index/blob/main/packages/asyntai-flarum-chatbot.json)
 
